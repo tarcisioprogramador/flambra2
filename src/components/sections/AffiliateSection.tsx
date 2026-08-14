@@ -23,10 +23,12 @@ const STEPS = [
 ];
 
 export function AffiliateSection() {
-  const [people, setPeople] = useState(5);
-  const [hours, setHours] = useState(3);
+  const [people, setPeople] = useState(30);
+  const [hours, setHours] = useState(8);
 
-  const monthly = people * hours * 30 * 2.5;
+  const WORK_DAYS = 30;
+  const RATE_PER_HOUR = 2.5;
+  const monthly = people * hours * WORK_DAYS * RATE_PER_HOUR;
 
   return (
     <section className="px-4 py-16 sm:px-6 lg:px-8">
@@ -115,7 +117,7 @@ export function AffiliateSection() {
                   id="affiliate-people"
                   type="range"
                   min={1}
-                  max={20}
+                  max={30}
                   value={people}
                   onChange={(e) => setPeople(Number(e.target.value))}
                   className="mt-2 w-full accent-primary"
@@ -145,7 +147,7 @@ export function AffiliateSection() {
               </div>
 
               <p className="mt-4 text-center text-xs text-textMuted">
-                {people} × {hours}h/dia × 30 dias — Somente horas aprovadas geram
+                {people} × {hours}h/dia × {WORK_DAYS} dias — Somente horas aprovadas geram
                 bônus.
               </p>
             </div>
