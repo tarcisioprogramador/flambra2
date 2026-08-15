@@ -5,6 +5,7 @@ import {
   SITE_DESCRIPTION,
   SITE_LOCALE,
   SITE_KEYWORDS,
+  COMPANY_INFO,
 } from "./constants";
 
 // ------------------------------------------------------------
@@ -254,5 +255,69 @@ export function websiteSchema(): object {
       target: `${SITE_URL}/blog?q={search_term_string}`,
       "query-input": "required name=search_term_string",
     },
+  };
+}
+
+/** Schema.org LocalBusiness (global, com telefone, endereços e horário) */
+export function localBusinessSchema(): object {
+  return {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": `${SITE_URL}/#localbusiness`,
+    name: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    telephone: COMPANY_INFO.phone,
+    email: COMPANY_INFO.email,
+    foundingDate: String(COMPANY_INFO.founded),
+    logo: `${SITE_URL}/icon.svg`,
+    image: `${SITE_URL}/opengraph-image.png`,
+    address: [
+      {
+        "@type": "PostalAddress",
+        addressLocality: "Goiânia",
+        addressRegion: "GO",
+        addressCountry: "BR",
+      },
+      {
+        "@type": "PostalAddress",
+        addressLocality: "Metropolitan Tokyo",
+        addressRegion: "Tokyo",
+        addressCountry: "JP",
+      },
+    ],
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: -16.6869,
+      longitude: -49.2648,
+    },
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+      ],
+      opens: "00:00",
+      closes: "23:59",
+    },
+    sameAs: [
+      "https://www.instagram.com/flambra.app/",
+      "https://br.linkedin.com/company/flambra",
+    ],
+    areaServed: [
+      {
+        "@type": "Country",
+        name: "Brasil",
+      },
+      {
+        "@type": "Country",
+        name: "Japão",
+      },
+    ],
   };
 }

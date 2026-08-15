@@ -86,6 +86,18 @@ export default function SobrePage() {
             </p>
           </div>
 
+          <div>
+            <SectionHeading align="left" eyebrow="Nossos escritórios" title="Onde estamos" />
+            <div className="mt-6 grid gap-6 sm:grid-cols-2">
+              {COMPANY_INFO.offices.map((office) => (
+                <div key={office.name} className="rounded-2xl border border-white/10 bg-surface p-6">
+                  <h3 className="font-semibold text-text">{office.name}</h3>
+                  <p className="mt-2 text-sm text-textMuted">{office.description}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+
           <div className="rounded-2xl border border-white/10 bg-surface p-6 text-sm text-textMuted">
             <p>
               <strong className="text-text">Sede:</strong> {COMPANY_INFO.location}
@@ -94,6 +106,12 @@ export default function SobrePage() {
               <strong className="text-text">Contato:</strong>{" "}
               <a href={`mailto:${COMPANY_INFO.email}`} className="text-primary hover:text-primary/80">
                 {COMPANY_INFO.email}
+              </a>
+            </p>
+            <p className="mt-1">
+              <strong className="text-text">Telefone:</strong>{" "}
+              <a href={`tel:${COMPANY_INFO.phone}`} className="text-primary hover:text-primary/80">
+                {COMPANY_INFO.phone}
               </a>
             </p>
             <p className="mt-1">

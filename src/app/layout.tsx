@@ -10,7 +10,7 @@ import {
   SITE_KEYWORDS,
   ANALYTICS,
 } from "@/lib/constants";
-import { organizationSchema, websiteSchema, jsonLd } from "@/lib/seo";
+import { organizationSchema, websiteSchema, localBusinessSchema, jsonLd } from "@/lib/seo";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
@@ -95,6 +95,10 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: jsonLd(websiteSchema()) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: jsonLd(localBusinessSchema()) }}
         />
         {/* Analytics: GA4 + GTM. Carregados apenas com credenciais reais em env. */}
         {hasAnalytics && ANALYTICS.gtmId && (

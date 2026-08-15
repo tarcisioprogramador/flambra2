@@ -162,9 +162,28 @@ export const COMPANY_INFO = {
   address: "Goiânia, Goiás, Brasil",
   cnpj: "59.524.963/0001-37",
   email: "contato@flambra.com",
-  whatsapp: "+5562999999999",
+  phone: "+552195934954",
+  whatsapp: "+5521996936397",
   instagram: "https://www.instagram.com/flambra.app/",
   linkedin: "https://br.linkedin.com/company/flambra",
+  offices: [
+    {
+      name: "Sede — Goiânia",
+      city: "Goiânia",
+      region: "GO",
+      country: "BR",
+      addressLocality: "Goiânia",
+      description: "Sede administrativa da Flambra Tecnologia LTDA.",
+    },
+    {
+      name: "Metropolitan Tokyo",
+      city: "Tokyo",
+      region: "Tokyo",
+      country: "JP",
+      addressLocality: "Metropolitan Tokyo",
+      description: "Escritório de operações no Japão.",
+    },
+  ],
 } as const;
 
 // ------------------------------------------------------------
