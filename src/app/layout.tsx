@@ -13,6 +13,7 @@ import {
 import { organizationSchema, websiteSchema, jsonLd } from "@/lib/seo";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -142,6 +143,7 @@ gtag('js',new Date());gtag('config','${ANALYTICS.ga4Id}',{'anonymize_ip':true});
         <Header />
         <main id="conteudo">{children}</main>
         <Footer />
+        <WhatsAppButton />
       </body>
     </html>
   );
