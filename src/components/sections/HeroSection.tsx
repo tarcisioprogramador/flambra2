@@ -1,5 +1,6 @@
 import { CTAButton } from "@/components/ui/Button";
 import Link from "next/link";
+import Image from "next/image";
 
 export function HeroSection() {
   return (
@@ -84,40 +85,15 @@ export function HeroSection() {
 
           {/* Ilustração */}
           <div className="relative mx-auto flex max-w-md justify-center lg:max-w-none">
-            <div className="relative w-full overflow-hidden rounded-3xl border border-white/10 bg-surface">
-              {/* Placeholder com gradiente */}
-              <div className="flex aspect-[4/3] items-center justify-center bg-gradient-to-br from-primary/20 via-surface to-accent/10 p-8">
-                <div className="text-center">
-                  <div className="mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-2xl bg-primary/20">
-                    <svg
-                      className="h-10 w-10 text-primary"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      strokeWidth={1.5}
-                      stroke="currentColor"
-                      aria-hidden="true"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M6.827 6.175A2.31 2.31 0 015.186 7.23c-.38.054-.757.112-1.134.175C2.999 7.58 2.25 8.507 2.25 9.574V18a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9.574c0-1.067-.75-1.994-1.802-2.169a47.865 47.865 0 00-1.134-.175 2.31 2.31 0 01-1.64-1.055l-.822-1.316a2.192 2.192 0 00-1.736-1.039 48.774 48.774 0 00-5.232 0 2.192 2.192 0 00-1.736 1.039l-.821 1.316z"
-                      />
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        d="M16.5 12.75a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zM18.75 10.5h.008v.008h-.008V10.5z"
-                      />
-                    </svg>
-                  </div>
-                  <p className="text-sm font-medium text-text">
-                    Grave com o celular
-                  </p>
-                  <p className="mt-1 text-xs text-textMuted">
-                    Tarefas reais do dia a dia
-                  </p>
-                </div>
-              </div>
-            </div>
+            <Image
+              src="/ganhe/afiliados-network.png"
+              alt="Mulher com megafone no centro, cercada por pessoas gravando tarefas com celular na headband, mostrando ganhos por hora aprovada"
+              width={768}
+              height={576}
+              priority
+              className="w-full rounded-3xl object-contain"
+              sizes="(max-width: 1024px) 100vw, 50vw"
+            />
           </div>
         </div>
       </div>
