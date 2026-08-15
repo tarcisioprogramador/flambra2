@@ -18,9 +18,9 @@ export const REFERRAL_URL = "https://app.flambra.com/?ref=D3D5653DFF&cadastro=1"
 // ------------------------------------------------------------
 export const SITE_URL = "https://flambra.app";
 export const SITE_NAME = "Flambra";
-export const SITE_TAGLINE = "Ganhe dinheiro gravando tarefas do dia a dia";
+export const SITE_TAGLINE = "Renda extra gravando tarefas do dia a dia";
 export const SITE_DESCRIPTION =
-  "Grave tarefas reais da sua rotina com o celular, ajude a treinar a próxima geração de robôs e receba até R$ 25 por hora aprovada.";
+  "Transforme sua rotina em renda extra gravando tarefas reais da sua rotina com o celular. Ajude a treinar a próxima geração de robôs e receba até R$ 25 por hora aprovada via PIX.";
 export const SITE_LOCALE = "pt_BR";
 export const SITE_LANG = "pt-BR";
 export const SITE_KEYWORDS = [

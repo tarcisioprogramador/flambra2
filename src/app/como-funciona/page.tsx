@@ -7,7 +7,7 @@ import { CTAS } from "@/lib/constants";
 export const metadata = buildPageMetadata({
   title: "Como Funciona",
   description:
-    "Entenda o passo a passo da Flambra: cadastro gratuito, gravação de tarefas com o celular, validação de horas e pagamento por PIX.",
+    "Entenda o passo a passo da Flambra: cadastro gratuito, gravação de tarefas com o celular, validação de horas e pagamento por PIX. Sua renda extra começa aqui.",
   path: "/como-funciona",
   keywords: ["como funciona a Flambra", "passo a passo", "cadastro gratuito", "gravar tarefas"],
 });
@@ -89,7 +89,7 @@ export default function ComoFuncionaPage() {
       <PageHero
         eyebrow="Passo a passo"
         title="Como funciona a Flambra"
-        description="Do cadastro ao pagamento: veja exatamente como você começa a ganhar dinheiro gravando tarefas do seu dia a dia."
+        description="Do cadastro ao pagamento: veja exatamente como você começa a ganhar renda extra gravando tarefas do seu dia a dia."
         crumbs={[{ name: "Como Funciona", path: "/como-funciona" }]}
       />
 

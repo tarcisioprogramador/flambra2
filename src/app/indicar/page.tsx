@@ -7,7 +7,7 @@ import { CTAS } from "@/lib/constants";
 export const metadata = buildPageMetadata({
   title: "Indicar e Ganhar - Programa de Indicação",
   description:
-    "Participe do programa de indicação da Flambra: compartilhe seu link, convide amigos e ganhe comissão sobre a atividade dos seus indicados.",
+    "Participe do programa de indicação da Flambra: compartilhe seu link, convide amigos e ganhe renda extra com comissão sobre a atividade dos seus indicados.",
   path: "/indicar",
   keywords: ["indicar e ganhar", "programa de indicação", "link de indicação", "convidar amigos", "comissão"],
 });

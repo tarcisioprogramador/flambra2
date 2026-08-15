@@ -8,9 +8,9 @@ import { FeaturesSection } from "@/components/sections/FeaturesSection";
 import { FAQSection } from "@/components/sections/FAQSection";
 
 export const metadata: Metadata = {
-  title: "Flambra - Ganhe dinheiro gravando tarefas do dia a dia",
+  title: "Flambra - Renda Extra Gravando Tarefas do Dia a Dia",
   description:
-    "Grave tarefas reais da sua rotina com o celular, ajude a treinar a proxima geracao de robos e receba ate R$ 25 por hora aprovada.",
+    "Transforme sua rotina em renda extra gravando tarefas do dia a dia com o celular. Receba até R$ 25 por hora aprovada via PIX na Flambra.",
   alternates: {
     canonical: "/",
   },

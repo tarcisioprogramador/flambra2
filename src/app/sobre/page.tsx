@@ -7,7 +7,7 @@ import { COMPANY_INFO, CTAS } from "@/lib/constants";
 export const metadata = buildPageMetadata({
   title: "Sobre a Flambra",
   description:
-    "Conheça a Flambra: a plataforma brasileira que conecta pessoas a projetos de inteligência artificial, pagando para gravar tarefas do dia a dia.",
+    "Conheça a Flambra: a plataforma brasileira que conecta pessoas a uma renda extra gravando tarefas do dia a dia para projetos de inteligência artificial.",
   path: "/sobre",
   keywords: ["sobre a Flambra", "quem somos", "plataforma brasileira", "missão"],
 });

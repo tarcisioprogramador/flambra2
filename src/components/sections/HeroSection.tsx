@@ -25,8 +25,10 @@ export function HeroSection() {
 
             <p className="mx-auto mt-6 max-w-xl text-lg text-textMuted lg:mx-0">
               Você não aparece, só as suas mãos! Lave sua louça, dobre suas
-              roupas ou troque um pneu. Grave pelo celular e receba pelas horas
-              aprovadas via Pix, com suporte humano no WhatsApp.
+              roupas ou troque um pneu. Transforme sua rotina em{" "}
+              <strong className="text-text">renda extra</strong> gravando pelo
+              celular e receba pelas horas aprovadas via Pix, com suporte
+              humano no WhatsApp.
             </p>
 
             {/* Badges de valor */}

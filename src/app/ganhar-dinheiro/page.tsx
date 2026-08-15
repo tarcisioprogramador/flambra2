@@ -8,7 +8,7 @@ import { CTAS, PROGRAM_VALUES } from "@/lib/constants";
 export const metadata = buildPageMetadata({
   title: "Ganhar Dinheiro Gravando Tarefas",
   description:
-    "Descubra quanto dá para ganhar gravando tarefas com o celular na Flambra: até R$ 25 por hora aprovada, pagamento por PIX e cadastro gratuito.",
+    "Descubra quanto dá para ganhar de renda extra gravando tarefas com o celular na Flambra: até R$ 25 por hora aprovada, pagamento por PIX e cadastro gratuito.",
   path: "/ganhar-dinheiro",
   keywords: ["ganhar dinheiro", "renda extra", "quanto ganha", "R$ 25 por hora", "ganhar pelo celular"],
 });
@@ -76,7 +76,7 @@ export default function GanharDinheiroPage() {
       <PageHero
         eyebrow="Potencial de ganho"
         title="Quanto dá para ganhar gravando tarefas?"
-        description="Até R$ 25 por hora aprovada. Seu total mensal depende das horas válidas que você envia — e isso está sob seu controle."
+        description="Até R$ 25 por hora aprovada. Sua renda extra depende das horas válidas que você envia — e isso está sob seu controle."
         crumbs={[{ name: "Ganhar Dinheiro", path: "/ganhar-dinheiro" }]}
       />
 
@@ -189,7 +189,7 @@ export default function GanharDinheiroPage() {
 
       <section className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8">
         <CTASection
-          title="Comece a construir seu ganho hoje"
+          title="Comece sua renda extra hoje"
           description="Cadastro gratuito, sem taxa e com pagamento por PIX. Sua primeira hora aprovada pode sair esta semana."
           ctaLabel={CTAS.payout.text}
           ctaType="cadastro"
