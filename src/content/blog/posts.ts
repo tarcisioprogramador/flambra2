@@ -617,6 +617,309 @@ export const BLOG_POSTS: BlogPost[] = [
   // CLUSTER: RENDA EXTRA
   // ============================================================
   {
+    slug: "como-ganhar-dinheiro-pelo-celular",
+    title: "Como ganhar dinheiro pelo celular: 7 formas reais em 2026",
+    description:
+      "Descubra 7 formas reais de ganhar dinheiro pelo celular em 2026: gravação de tarefas, afiliados, pesquisas e mais. Cadastro gratuito e pagamento por PIX.",
+    excerpt:
+      "Celular não é só redes sociais — ele pode ser sua ferramenta de renda extra. Conheça 7 formas reais de ganhar dinheiro pelo celular em 2026.",
+    category: "renda-extra",
+    author: "Equipe Flambra",
+    publishedAt: "2026-08-14T09:00:00.000Z",
+    updatedAt: "2026-08-14T09:00:00.000Z",
+    readingTime: 7,
+    keywords: [
+      "ganhar dinheiro pelo celular",
+      "renda extra pelo celular",
+      "app que paga de verdade",
+      "ganhar dinheiro com o celular 2026",
+      "trabalhar pelo celular",
+    ],
+    featuredImage: "/blog/como-ganhar-dinheiro-pelo-celular.svg",
+    imageAlt:
+      "Ilustração de pessoa usando o celular para ganhar dinheiro com diversas atividades",
+    content: [
+      {
+        type: "p",
+        text: "O celular que você usa para tudo — redes sociais, mensagens, entretenimento — pode ser sua próxima ferramenta de renda extra. Em 2026, milhões de brasileiros já usam o smartphone para gerar dinheiro de forma real, sem precisar de investimento inicial ou experiência prévia. Neste artigo, você conhece sete formas comprovadas de transformar seu celular em uma fonte de renda.",
+      },
+      { type: "h2", text: "1. Gravação de tarefas com o celular" },
+      {
+        type: "p",
+        text: "Empresas de inteligência artificial precisam de vídeos reais de pessoas realizando tarefas domésticas — lavar louça, dobrar roupas, cozinhar — para ensinar robôs a executar essas tarefas no mundo real. Você grava com o celular, envia pela plataforma e recebe até R$ 25 por hora aprovada, com pagamento por PIX.",
+      },
+      {
+        type: "p",
+        text: "É uma das opções mais acessíveis porque não exige experiência, equipamento profissional ou horário fixo. Basta um celular com câmera e a sua rotina do dia a dia.",
+      },
+      { type: "h2", text: "2. Marketing de afiliados" },
+      {
+        type: "p",
+        text: "Você divulga produtos de outras marcas e recebe uma comissão por cada venda feita pelo seu link. Plataformas como Shopee, Hotmart e Amazon Brasil oferecem programas gratuitos. O celular serve para criar conteúdo, compartilhar links e acompanhar resultados.",
+      },
+      { type: "h2", text: "3. Pesquisas remuneradas" },
+      {
+        type: "p",
+        text: "Apps como Google Opinion Rewards pagam por respostas rápidas a pesquisas de mercado. O valor por pesquisa é pequeno (R$ 0,10 a R$ 1,00), mas o esforço é mínimo e pode ser feito em qualquer intervalo do dia.",
+      },
+      { type: "h2", text: "4. Criação de conteúdo para redes sociais" },
+      {
+        type: "p",
+        text: "TikTok, Instagram e YouTube Shorts permitem monetizar vídeos curtos. Marcas pagam por conteúdo autêntico (UGC) mesmo para perfis pequenos. Um único vídeo pode render entre R$ 150 e R$ 500, dependendo da marca.",
+      },
+      { type: "h2", text: "5. Freelance de serviços online" },
+      {
+        type: "p",
+        text: "Redação, design, tradução, atendimento ao cliente e gestão de redes sociais podem ser feitos pelo celular. Plataformas como Workana e 99Freelas conectam profissionais a clientes no Brasil e na América Latina.",
+      },
+      { type: "h2", text: "6. Venda de produtos pelo WhatsApp" },
+      {
+        type: "p",
+        text: "O WhatsApp virou canal de vendas para muitos brasileiros. É possível vender produtos próprios, artesanato, produtos digitais ou atuar como representante comercial — tudo direto pelo celular.",
+      },
+      { type: "h2", text: "7. Programa de indicação" },
+      {
+        type: "p",
+        text: "Plataformas como a Flambra pagam comissão quando você indica pessoas que participam do programa. Você compartilha seu link, a pessoa se cadastra gratuitamente e você ganha sobre a atividade dela — sem precisar gravar uma hora a mais.",
+      },
+      { type: "h2", text: "Como escolher a melhor opção para você" },
+      {
+        type: "ul",
+        items: [
+          "Se você quer retorno rápido: gravação de tarefas ou pesquisas remuneradas.",
+          "Se você quer escalar a longo prazo: afiliados ou criação de conteúdo.",
+          "Se você tem habilidade específica: freelance.",
+          "Se você tem redes sociais ativas: UGC ou indicação.",
+        ],
+      },
+      { type: "h2", text: "Cuidados para evitar golpes" },
+      {
+        type: "ul",
+        items: [
+          "Nunca pague para começar a trabalhar — plataformas sérias são gratuitas.",
+          "Desconfie de promessas de ganhos milionários em poucos dias.",
+          "Pesquise a reputação da plataforma antes de se cadastrar.",
+          "Leia os Termos de Uso e a Política de Privacidade.",
+        ],
+      },
+      {
+        type: "cta",
+        ctaType: "cadastro",
+        label: "Quero começar a ganhar pelo celular",
+        text: "Transforme sua rotina em renda extra. Crie sua conta gratuita na Flambra e receba por PIX.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Dá para ganhar dinheiro de verdade pelo celular?",
+        answer: "Sim. Plataformas legítimas como a Flambra pagam por horas aprovadas de gravação de tarefas. O pagamento é feito em reais, via PIX, e o cadastro é gratuito.",
+      },
+      {
+        question: "Quanto dá para ganhar por mês?",
+        answer: "Depende das horas aprovadas. Com 4 horas por semana, é possível ganhar até R$ 400/mês. Com 15 horas por semana, o potencial chega a R$ 1.500/mês.",
+      },
+      {
+        question: "Preciso de equipamento especial?",
+        answer: "Não. Basta um celular com câmera funcional e acesso à internet. A qualidade da gravação depende de iluminação e estabilidade, não de equipamento profissional.",
+      },
+    ],
+  },
+  {
+    slug: "como-ganhar-renda-extra",
+    title: "Como ganhar renda extra: guia prático para começar do zero",
+    description:
+      "Guia completo para ganhar renda extra em 2026: formas reais, quanto dá para ganhar por mês e como começar sem investir nada. Cadastro gratuito.",
+    excerpt:
+      "Quer ganhar renda extra mas não sabe por onde começar? Este guia prático mostra formas reais, valores e o primeiro passo para começar hoje.",
+    category: "renda-extra",
+    author: "Equipe Flambra",
+    publishedAt: "2026-08-10T09:00:00.000Z",
+    updatedAt: "2026-08-10T09:00:00.000Z",
+    readingTime: 6,
+    keywords: [
+      "como ganhar renda extra",
+      "renda extra 2026",
+      "renda extra pelo celular",
+      "ganhar dinheiro extra",
+      "renda extra em casa",
+    ],
+    featuredImage: "/blog/como-ganhar-renda-extra.svg",
+    imageAlt:
+      "Ilustração de pessoa organizando suas finanças enquanto usa o celular para ganhar renda extra",
+    content: [
+      {
+        type: "p",
+        text: "Ganhar renda extra virou necessidade para muitos brasileiros. Com o custo de vida subindo, complementar o salário com uma segunda fonte de renda pode fazer diferença no fim do mês. A boa notícia: existem formas reais de começar do zero, sem investir nada e usando apenas o celular que você já tem.",
+      },
+      { type: "h2", text: "Por que renda extra é diferente de dinheiro fácil" },
+      {
+        type: "p",
+        text: "Renda extra não é milagre. É uma atividade que exige tempo, dedicação e consistência — mas que pode ser feita em paralelo à sua rotina, sem comprometer seu trabalho ou estudos. A diferença entre renda extra e golpe é simples: renda extra é transparente, gratuita e não promete riqueza da noite pro dia.",
+      },
+      { type: "h2", text: "5 formas reais de ganhar renda extra" },
+      { type: "h3", text: "1. Gravação de tarefas com o celular" },
+      {
+        type: "p",
+        text: "Você grava tarefas do dia a dia — lavar louça, dobrar roupas, cozinhar — e recebe até R$ 25 por hora aprovada. O cadastro é gratuito e o pagamento é por PIX. Uma das opções mais acessíveis para quem está começando.",
+      },
+      { type: "h3", text: "2. Freelance de serviços online" },
+      {
+        type: "p",
+        text: "Redação, design, tradução, atendimento ao cliente. Plataformas como Workana e GetNinjas conectam freelancers a clientes. O celular resolve para tarefas simples e rápidas.",
+      },
+      { type: "h3", text: "3. Marketing de afiliados" },
+      {
+        type: "p",
+        text: "Divulgue produtos e ganhe comissão por cada venda. Não precisa de estoque nem capital inicial. O celular serve para criar conteúdo e compartilhar links.",
+      },
+      { type: "h3", text: "4. Venda de produtos pelo WhatsApp e Instagram" },
+      {
+        type: "p", text: "Venda produtos próprios, artesanato ou atue como revendedora. O WhatsApp e o Instagram são canais de venda gratuitos e eficientes.",
+      },
+      { type: "h3", text: "5. Pesquisas remuneradas" },
+      {
+        type: "p", text: "Responda pesquisas de mercado e receba por cada resposta. Apps como Google Opinion Rewards pagam créditos ou dinheiro. O valor por pesquisa é pequeno, mas o esforço é mínimo.",
+      },
+      { type: "h2", text: "Quanto dá para ganhar por mês?" },
+      {
+        type: "ul",
+        items: [
+          "Iniciante: R$ 100 a R$ 500/mês com atividades simples.",
+          "Intermediário: R$ 800 a R$ 1.500/mês com consistência.",
+          "Avançado: R$ 2.000+ com múltiplas fontes e dedicação.",
+        ],
+      },
+      { type: "h2", text: "Como começar do zero" },
+      {
+        type: "ol",
+        items: [
+          "Escolha UMA forma de renda extra para começar.",
+          "Dedique pelo menos 4 horas por semana.",
+          "Acompanhe seus resultados toda semana.",
+          "Ajuste o que não funciona e repita o que funciona.",
+          "Quando estabilizar, adicione uma segunda fonte.",
+        ],
+      },
+      {
+        type: "quote",
+        text: "A renda extra não vem do dia para a noite. Ela vem de semanas de consistência que se transformam em saldo no fim do mês.",
+      },
+      {
+        type: "cta",
+        ctaType: "cadastro",
+        label: "Quero começar minha renda extra",
+        text: "Crie sua conta gratuita na Flambra e transforme sua rotina em renda extra pelo celular.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Renda extra funciona de verdade?",
+        answer: "Sim, desde que você escolha oportunidades legítimas. Plataformas como a Flambra pagam reais via PIX por horas aprovadas de gravação. Não existe ganho garantido, mas existe caminho comprovado.",
+      },
+      {
+        question: "Preciso investir para começar?",
+        answer: "Não. A maioria das formas de renda extra — incluindo a Flambra — é gratuita. O investimento é tempo e dedicação, não dinheiro.",
+      },
+      {
+        question: "Quanto tempo leva para ver resultados?",
+        answer: "Com consistência, os primeiros resultados aparecem em 1 a 4 semanas. Resultados consistentes levam 2 a 3 meses de dedicação regular.",
+      },
+    ],
+  },
+  {
+    slug: "como-fazer-renda-extra-em-casa",
+    title: "Como fazer renda extra em casa: 6 formas que funcionam em 2026",
+    description:
+      "Aprenda 6 formas de fazer renda extra em casa usando o celular: gravação de tarefas, afiliados, freelancing e mais. Comece hoje sem investir nada.",
+    excerpt:
+      "Ficar em casa não impede de ganhar dinheiro. Conheça 6 formas reais de fazer renda extra em casa, tudo pelo celular e sem investimento inicial.",
+    category: "renda-extra",
+    author: "Equipe Flambra",
+    publishedAt: "2026-08-08T09:00:00.000Z",
+    updatedAt: "2026-08-08T09:00:00.000Z",
+    readingTime: 6,
+    keywords: [
+      "renda extra em casa",
+      "como fazer renda extra em casa",
+      "ganhar dinheiro em casa",
+      "trabalhar de casa pelo celular",
+      "renda extra doméstica",
+    ],
+    featuredImage: "/blog/como-fazer-renda-extra-em-casa.svg",
+    imageAlt:
+      "Ilustração de pessoa em casa usando o celular para gerar renda extra com tarefas domésticas",
+    content: [
+      {
+        type: "p",
+        text: "Fazer renda extra em casa nunca foi tão acessível. Com um celular, internet e organização, você pode transformar sua rotina doméstica em uma fonte de renda real. Seja porque você trabalha de casa, cuida da família ou simplesmente quer complementar o salário, existem opções que cabem na sua rotina — sem precisar sair de casa.",
+      },
+      { type: "h2", text: "1. Gravação de tarefas domésticas" },
+      {
+        type: "p",
+        text: "Esta é a opção mais direta para quem quer renda extra em casa: você grava as tarefas que já faz no dia a dia — lavar louça, dobrar roupas, preparar comida, organizar a casa — e recebe por cada hora aprovada. A Flambra paga até R$ 25 por hora, com pagamento por PIX.",
+      },
+      {
+        type: "p",
+        text: "O diferencial é que sua rotina doméstica vira o próprio trabalho. Não precisa sair de casa, não precisa de equipamento especial e não precisa de experiência.",
+      },
+      { type: "h2", text: "2. Freelance pelo celular" },
+      {
+        type: "p", text: "Serviços como redação, tradução, design e atendimento ao cliente podem ser feitos de casa, pelo celular. Plataformas como Workana e 99Freelas conectam freelancers a clientes que precisam desses serviços." },
+      { type: "h2", text: "3. Venda de produtos pelo WhatsApp" },
+      {
+        type: "p", text: "Se você produz algo — artesanato, bolos, roupas, produtos personalizados — o WhatsApp é um canal de vendas gratuito. Você divulga, recebe pedidos e entrega sem precisar de loja física." },
+      { type: "h2", text: "4. Afiliados e indicação" },
+      {
+        type: "p", text: "Divulgue produtos ou plataformas pelo seu link e ganhe comissão. Não precisa sair de casa, não precisa de estoque. O celular resolve criação de conteúdo e compartilhamento." },
+      { type: "h2", text: "5. Gestão de redes sociais" },
+      {
+        type: "p", text: "Pequenos negócios locais precisam de ajuda para manter suas redes sociais ativas. Se você entende de Instagram, Facebook e WhatsApp Business, pode prestar esse serviço de casa." },
+      { type: "h2", text: "6. Criação de conteúdo" },
+      {
+        type: "p", text: "Vídeos curtos para TikTok, Instagram Reels e YouTube Shorts podem gerar renda com monetização, parcerias e afiliados. Tudo gravado e editado pelo celular, de casa." },
+      { type: "h2", text: "Vantagens de fazer renda extra em casa" },
+      {
+        type: "ul",
+        items: [
+          "Zero custo de deslocamento.",
+          "Flexibilidade de horário.",
+          "Compatível com cuidado da família.",
+          "Possibilidade de escalar com o tempo.",
+        ],
+      },
+      { type: "h2", text: "Como manter a disciplina" },
+      {
+        type: "ol",
+        items: [
+          "Separe um horário fixo para a atividade de renda extra.",
+          "Trate como compromisso, não como algo opcional.",
+          "Acompanhe seus resultados semanalmente.",
+          "Evite multitarefa — foque em UMA atividade por vez.",
+        ],
+      },
+      {
+        type: "cta",
+        ctaType: "cadastro",
+        label: "Quero fazer renda extra em casa",
+        text: "Crie sua conta gratuita na Flambra e comece a ganhar com as tarefas que você já faz em casa.",
+      },
+    ],
+    faqs: [
+      {
+        question: "Dá para ganhar renda extra só ficando em casa?",
+        answer: "Sim. A Flambra paga por tarefas gravadas em casa. Freelance, afiliados e vendas pelo WhatsApp também podem ser feitos 100% de casa.",
+      },
+      {
+        question: "Qual a melhor opção para quem não tem habilidade técnica?",
+        answer: "A gravação de tarefas é a mais acessível: não precisa de habilidade específica, só de um celular e uma tarefa do dia a dia.",
+      },
+      {
+        question: "Preciso de computador?",
+        answer: "Não. Todas as opções listadas podem ser feitas apenas com o celular.",
+      },
+    ],
+  },
+  {
     slug: "como-aumentar-suas-oportunidades-de-ganho",
     title: "Como aumentar suas oportunidades de ganho na Flambra",
     description:

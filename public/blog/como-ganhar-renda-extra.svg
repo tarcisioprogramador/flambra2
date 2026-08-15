@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" fill="none">
+  <rect width="800" height="400" rx="16" fill="#141428"/>
+  <text x="400" y="60" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#FF6B00">Guia de Renda Extra</text>
+  <rect x="100" y="100" width="200" height="120" rx="12" fill="#1C1C33" stroke="#FF6B00" stroke-width="2"/>
+  <text x="200" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#FF6B00">TAREFAS</text>
+  <text x="200" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#A0A0B0">Gravacao de tarefas</text>
+  <text x="200" y="195" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#00D4AA">ate R$ 25/h</text>
+  <rect x="300" y="100" width="200" height="120" rx="12" fill="#1C1C33" stroke="#FF6B00" stroke-width="2"/>
+  <text x="400" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#FF6B00">FREELA</text>
+  <text x="400" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#A0A0B0">Freelance online</text>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#00D4AA">R$ 500 a R$ 2.000/mes</text>
+  <rect x="500" y="100" width="200" height="120" rx="12" fill="#1C1C33" stroke="#FF6B00" stroke-width="2"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" fill="#FF6B00">AFILIADO</text>
+  <text x="600" y="175" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#A0A0B0">Afiliados</text>
+  <text x="600" y="195" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#00D4AA">comissao por venda</text>
+  <line x1="100" y1="260" x2="700" y2="260" stroke="#FF6B00" stroke-width="2" opacity="0.3"/>
+  <text x="400" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#FFFFFF">Comece do zero, sem investir nada</text>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#A0A0B0">5 formas comprovadas para 2026</text>
+  <circle cx="400" cy="370" r="6" fill="#FF6B00"/>
+</svg>
